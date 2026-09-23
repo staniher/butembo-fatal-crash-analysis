@@ -1,0 +1,14 @@
+{
+    "numeric_features": [
+        "Hour",
+        "Number_of_years_in_use"
+    ],
+    "categorical_features": [
+        "DRIVERS_STATE",
+        "ROAD_CONDITION",
+        "TYPE_VEHICULE",
+        "VEHICULE_NAME",
+        "VEHICULE_DAMAGE_CONDITION",
+        "ACCIDENT_LOCATION"
+    ]
+}

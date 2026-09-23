@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+catboost
+xgboost
+lightgbm
+torch
+torch-geometric
+tensorflow
+fastapi
+uvicorn
+streamlit
+matplotlib
